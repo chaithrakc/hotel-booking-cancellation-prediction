@@ -1,0 +1,20 @@
+Feedback to Learner 
+12/28/21 12:51 PM
+
+Interesting approach and style to your document. Right into the detail and point of the assignment. Different and effective. Always make sure you know your audience.
+
+Very detailed and thorough investigation of your data, great use/show of R in your document for the techy me. Be careful to read more into the data/visualization than is there…. Meaning don’t make guesses or speculations. I think you tried hard not to, but.
+
+Sometimes it is important to derive your own fields to better suit your modeling and analysis. I did not see any of that in your document.
+
+There was a couple other fields, week/weeknight and adult, children and baby that had some weird data that could have been cleaned and explored.
+
+Could have clearly stated your business questions you wanted to ask of this data. I could read between the lines and see what you did, but always good to have a hypothesis and further develop and test it.
+
+You were on a great path with A rules, but make sure you reduce rules and present the top rules. You produced more rules. we want less and better. You were right there and then you went the other way.
+
+You mentioned early, but never hit it home again in the end to “validate’ your analysis, visualization findings to your models. You did get ~82% accuracy in one technique, but was this validated by anything else?
+
+You did great work in your modeling section as you keep digging in. I really liked it. You also tied that to your first actionable insight.
+
+On the second you want back to just looking at one specific field. Be careful to make sure you speak of insights that are specific to a certain detailed population. So, for example you talked about the field itself and the possible impacts, but what about the combination of fields like (making this up) market segments, with lead-time of ?, that are adults, and have no deposit… or better said look at even more of your association rules. Maybe the second and third as well.
