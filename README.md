@@ -1,2 +1,1 @@
-# hotel-booking-cancellation-prediction
-Hotel Booking Cancellation Prediction
+# Hotel Booking Cancellation Prediction
